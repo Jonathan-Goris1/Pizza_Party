@@ -9,7 +9,7 @@
     android:paddingLeft="@dimen/padding"
     android:paddingRight="@dimen/padding"
     android:paddingTop="@dimen/padding"
-    tools:context="com.zybooks.pizzaparty.MainActivity">
+    tools:context="com.zybooks.pizzaparty.controller.MainActivity">
 
     <TextView
         android:id="@+id/name"
