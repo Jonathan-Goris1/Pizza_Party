@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Pizza Party</string>
+    <string name="name">Jonathan Goris</string>
+    <string name="number_of_people">Number of people?</string>
+    <string name="hint_10">10</string>
+    <string name="how_hungry_text">How hungry?</string>
+    <string name="light_text">Light</string>
+    <string name="medium_text">Medium</string>
+    <string name="ravenous_text">Ravenous</string>
+    <string name="toppings_text">Toppings</string>
+    <string name="no_toppings_text">No Toppings</string>
+    <string name="peperoni_hint">Peperoni</string>
+    <string name="extra_cheese_hint">Extra Cheese</string>
+    <string name="calculate_text">Calculate</string>
+
+    <string name="total_slice_per_person_text">Total slice per person: ? </string>
+    <string name="number_of_pizzas_text">Number of pizzas: ?</string>
+    <string name="food_text">Food: </string>
+    <string name="taxes_text">Taxes: </string>
+    <string name="total_text">Total: </string>
+
+    <string name="total_slice_per_person_text_plus_total">Total slice per person: , %1$i </string>
+    <string name="number_of_pizzas_text_plus_total">Number of pizzas: , %1$i</string>
+    <string name="food_text_plus_total">Food: , %1$d</string>
+    <string name="taxes_text_plus_total">Taxes: , %1$d</string>
+    <string name="total_text_plus_total">Total: , %1$d</string>
+
+    <string name="save_order_text">Save Order</string>
+    <string name="checkout_text">Checkout</string>
+</resources>
